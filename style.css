@@ -1,4 +1,26 @@
 body {
     background-color: black;
     color: white;
+    text-align: center;
+}
+
+div.kapely {
+    text-align: center;
+}
+
+div.kapela {
+    background-color: royalblue;
+    color: white;;
+    width: 25%;
+    display: inline-block;
+    padding-right: 10%;
+    padding-left: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+}
+
+img {
+    width: 100%;
+    height: auto;
 }
